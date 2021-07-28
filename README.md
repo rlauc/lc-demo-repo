@@ -12,7 +12,7 @@ Some description!
 
     ## Local Development 
 
-    1. Open index.html in your browser.
+    A. esto lo modificó tu amorsito, desde Yumbo, con mucho cariño.
 
     ##  Regional Development
 
